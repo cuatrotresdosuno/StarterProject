@@ -12,7 +12,7 @@
       },
       {
         "package": "Arrow",
-        "repositoryURL": "https://github.com/freshOS/Arrow",
+        "repositoryURL": "https://github.com/cuatrotresdosuno/Arrow",
         "state": {
           "branch": null,
           "revision": "ede0996c0b8f32a67bba80ae384f0898e9a8cb95",
@@ -30,7 +30,7 @@
       },
       {
         "package": "Stevia",
-        "repositoryURL": "https://github.com/freshOS/Stevia",
+        "repositoryURL": "https://github.com/cuatrotresdosuno/Stevia",
         "state": {
           "branch": null,
           "revision": "4b7e6403b28e8460afbe1121e789b4f0d220e2ed",
@@ -39,7 +39,7 @@
       },
       {
         "package": "Then",
-        "repositoryURL": "https://github.com/freshOS/Then",
+        "repositoryURL": "https://github.com/cuatrotresdosuno/Then",
         "state": {
           "branch": null,
           "revision": "7b20f33ca37c6ecc9420c4b699b641dbca504912",
@@ -48,7 +48,7 @@
       },
       {
         "package": "ws",
-        "repositoryURL": "https://github.com/freshOS/ws",
+        "repositoryURL": "https://github.com/cuatrotresdosuno/ws",
         "state": {
           "branch": null,
           "revision": "4de55cbdb5ca60440bb972d4f97e7a1f24bde1fa",
